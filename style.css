@@ -1,0 +1,36 @@
+.container {
+	width: 70%;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+	background-image: url("https://i.ibb.co/mVbYkWFB/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-rep.jpg");
+	margin: 100px auto;
+	background-size: cover;
+	color: white;
+	text-align: center;
+	padding: 3rem;
+	border-radius: 30px;
+}
+
+h1 {
+	color: goldenrod;
+}
+
+p {
+	color: white;
+	font-size: 18px;
+}
+
+#message-el {
+	font-style: italic;
+}
+
+button {
+	color: #016f32;
+	width: 150px;
+	background-color: goldenrod;
+	border-radius: 12px;
+	padding: 5px 0px;
+	border: none;
+	font-weight: bold;
+	margin: 15px auto;
+}
